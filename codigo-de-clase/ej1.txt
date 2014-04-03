@@ -1,0 +1,8 @@
+
+.Entraron 200000 visitantes. 
+
+.Ejecutar el programa con 2 hilos no devuelve siempre el resultado correcto. En cambio con un solo hilo el resultado es correcto.
+
+.El resultado es incorrecto porque ambas funciones suman mas uno a la misma variable visitantes pero la variable visitantes esta en una region critica y "pisada por ambas funciones".
+
+.El menos vañp 
